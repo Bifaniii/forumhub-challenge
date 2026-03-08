@@ -1,0 +1,3 @@
+package com.guilhermebifani.demo.domain.usuario;
+
+public record DadosAutenticacao(String login, String senha) {}
